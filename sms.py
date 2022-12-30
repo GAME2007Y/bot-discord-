@@ -8,7 +8,7 @@ from discord.ext import commands
 from re import search
 import threading
 
-token = "token"#โทเค่นบอท
+token = "MTA1ODQyMzg1ODE2NTcyNzM2NA.G6NeN6.HQq0ZGB0EHLmdR6-OxRgyt-35W_v61NxdggQjw"#โทเค่นบอท
 
 
 
